@@ -4,3 +4,4 @@ Full Stack resolusi
 -go go
  
 - 5 jam belajar
+- jangan malas
